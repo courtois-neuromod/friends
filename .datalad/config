@@ -1,0 +1,4 @@
+[datalad]
+	fake-dates = true
+[datalad "dataset"]
+	id = 66738676-1d20-11ea-9a9e-3ea8d101da1a
