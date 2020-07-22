@@ -44,7 +44,7 @@
   "PhaseResolution": 1,
   "PixelBandwidth": 2290,
   "ProcedureStepDescription": "video_friends",
-  "ProtocolName": "func_task-friends-s01e05a",
+  "ProtocolName": "func_task-s01e05a",
   "PulseSequenceDetails": "%CustomerSeq%_cmrr_mbep2d_bold",
   "ReceiveCoilActiveElements": "HC1-7;NC1,2",
   "ReceiveCoilName": "HeadNeck_64",
