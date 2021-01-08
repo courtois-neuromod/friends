@@ -43,7 +43,6 @@
   "PhaseEncodingSteps": 104,
   "PhaseResolution": 1,
   "PixelBandwidth": 2290,
-  "ProcedureStepDescription": "video_friends",
   "ProtocolName": "func_task-friends-s03e14a",
   "PulseSequenceDetails": "%CustomerSeq%_cmrr_mbep2d_bold",
   "ReceiveCoilActiveElements": "HC1-7;NC1,2",
