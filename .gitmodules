@@ -12,3 +12,7 @@
 	path = derivatives/fmriprep-20.2lts
 	url = git@github.com:courtois-neuromod/friends.fmriprep-lts.git
 	branch = .
+[submodule ".heudiconv"]
+	path = .heudiconv
+	url = ./.heudiconv
+	datalad-id = 7be3106a-12a3-46a7-99fa-2412348fadef
