@@ -11,3 +11,8 @@
 	path = .heudiconv
 	url = ./.heudiconv
 	datalad-id = 7be3106a-12a3-46a7-99fa-2412348fadef
+[submodule "stimuli"]
+	path = stimuli
+	url = git@github.com:courtois-neuromod/friends.stimuli.git
+	datalad-id = bbbf34b9-31aa-4e35-b1ed-36525c6d7ce3
+	datalad-url = git@github.com:courtois-neuromod/friends.stimuli.git
