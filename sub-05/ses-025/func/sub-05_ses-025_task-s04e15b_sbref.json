@@ -2,6 +2,12 @@
   "AcquisitionMatrixPE": 104,
   "AcquisitionNumber": 1,
   "AcquisitionTime": "17:39:27.835000",
+  "B0FieldIdentifier": [
+    "sub-05_ses-025_task-s04e15b_bold.nii.gz"
+],
+  "B0FieldSource": [
+    "sub-05_ses-025_task-s04e15b_bold.nii.gz"
+],
   "BandwidthPerPixelPhaseEncode": 17.17,
   "BaseResolution": 104,
   "BodyPartExamined": "BRAIN",
