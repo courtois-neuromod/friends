@@ -26,4 +26,4 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run bids-validator
-        run: docker run -v $GITHUB_WORKSPACE:/bids bids/validator --remoteFiles --ignoreSymlinks --config.ignore=43 /bids
+        run: docker run -v $GITHUB_WORKSPACE:/bids bids/validator --remoteFiles --ignoreSymlinks --config.ignore=43 --config.ignore=99 --config.ignore=6 --config.ignore=38  /bids
