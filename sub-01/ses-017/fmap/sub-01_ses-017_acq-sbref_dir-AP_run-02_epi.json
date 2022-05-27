@@ -31,9 +31,9 @@
   "InstitutionName": "IUGM",
   "InstitutionalDepartmentName": "Department",
   "IntendedFor": [
-    "ses-017/func/sub-01_ses-017_task-s01e20a_bold.nii.gz",
-    "ses-017/func/sub-01_ses-017_task-s01e20b_bold.nii.gz",
-    "ses-017/func/sub-01_ses-017_task-s01e21a_bold.nii.gz",
+    "ses-017/func/sub-01_ses-017_task-s02e20a_bold.nii.gz",
+    "ses-017/func/sub-01_ses-017_task-s02e20b_bold.nii.gz",
+    "ses-017/func/sub-01_ses-017_task-s02e21a_bold.nii.gz",
     "ses-017/func/sub-01_ses-017_task-s02e21b_bold.nii.gz",
     "ses-017/func/sub-01_ses-017_task-s02e22a_bold.nii.gz",
     "ses-017/func/sub-01_ses-017_task-s02e22b_bold.nii.gz"
