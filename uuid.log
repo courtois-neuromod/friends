@@ -8,6 +8,7 @@
 027b4664-1c56-4a9e-a93e-40f2bfdbc63a bpinsard@nc11008.narval.calcul.quebec:/localscratch/bpinsard.4218782.0/fmriprep_studyfriends_sub03_ses065.job timestamp=1648947058.027726185s
 030df449-6bec-4745-ae63-34df95e1ba89 bpinsard@blg8213.int.ets1.calculquebec.ca:/localscratch/bpinsard.27321073.0/fmriprep_studyfriends_sub04_ses006.job timestamp=1635913500.085622472s
 0584c17c-2e60-4893-97fc-e7e8255fd437 bpinsard@blg8448.int.ets1.calculquebec.ca:/localscratch/bpinsard.27321088.0/fmriprep_studyfriends_sub04_ses021.job timestamp=1635914392.28494281s
+05f26941-8ea6-4bff-9821-1bf120809ca1 bpinsard@nc20501.narval.calcul.quebec:/localscratch/bpinsard.6327068.0/fmriprep_studyfriends_sub03_ses073.job timestamp=1653706587.321934769s
 063ab66a-ff80-4d19-b61d-8a58cfa4c29a bpinsard@blg5518.int.ets1.calculquebec.ca:/localscratch/bpinsard.26933227.0/fmriprep_studyfriends_sub01_ses025.job timestamp=1635124189.538803824s
 06ac03b6-5725-4d66-a6ed-0537ff2553be bpinsard@blg7529.int.ets1.calculquebec.ca:/localscratch/bpinsard.26933223.0/fmriprep_studyfriends_sub01_ses021.job timestamp=1635122704.603473684s
 081a393d-d956-40fc-aee2-14444c06fdf7 bpinsard@blg8332.int.ets1.calculquebec.ca:/localscratch/bpinsard.27341807.0/fmriprep_studyfriends_sub02_ses034.job timestamp=1635957987.790354358s
@@ -16,12 +17,14 @@
 0a35ddb9-23f1-405f-9b02-3b5198354366 bpinsard@nc20237.narval.calcul.quebec:/localscratch/bpinsard.4218800.0/fmriprep_studyfriends_sub06_ses029.job timestamp=1648947418.545205655s
 0ac3de95-09d7-4845-ad4e-79a6e53a2c12 bpinsard@blg7523.int.ets1.calculquebec.ca:/localscratch/bpinsard.27341813.0/fmriprep_studyfriends_sub03_ses054.job timestamp=1635958024.034730649s
 0ac4468a-0cd9-436f-8abb-31fc1e6b1044 bpinsard@nc20623.narval.calcul.quebec:/localscratch/bpinsard.4218804.0/fmriprep_studyfriends_sub06_ses033.job timestamp=1648947640.233904829s
+0aff1bee-6747-4134-a2b2-283912f7a40f bpinsard@nc10322.narval.calcul.quebec:/localscratch/bpinsard.6327066.0/fmriprep_studyfriends_sub03_ses071.job timestamp=1653706516.396465945s
 0e32c19b-b5dc-49b4-b4c9-934d3e121f74 bpinsard@blg8235.int.ets1.calculquebec.ca:/localscratch/bpinsard.27321075.0/fmriprep_studyfriends_sub04_ses008.job timestamp=1635913464.912180386s
 0e4140b1-9613-4c30-a8db-8201559e7e54 bpinsard@blg6241.int.ets1.calculquebec.ca:/localscratch/bpinsard.27321036.0/fmriprep_studyfriends_sub03_ses026.job timestamp=1635909242.266200302s
 0fe3eee1-83db-4547-b40f-74a1434186a9 bpinsard@blg8642.int.ets1.calculquebec.ca:/localscratch/bpinsard.26933182.0/fmriprep_studyfriends_sub01_ses006.job timestamp=1635120323.984678077s
 1060fe4a-e597-43c1-842d-bef262a14133 bpinsard@blg7245.int.ets1.calculquebec.ca:/localscratch/bpinsard.27321132.0/fmriprep_studyfriends_sub06_ses009.job timestamp=1635920017.433491726s
 10d2c395-2fc5-4454-9e1c-cfe0aecb30d7 bpinsard@blg8244.int.ets1.calculquebec.ca:/localscratch/bpinsard.27321091.0/fmriprep_studyfriends_sub04_ses024.job timestamp=1635914337.823676908s
 11253bcf-71a0-45db-ba8e-9b859dc3ea42 bpinsard@blg8231.int.ets1.calculquebec.ca:/localscratch/bpinsard.27320976.0/fmriprep_studyfriends_sub02_ses002.job timestamp=1635900156.229108207s
+1167a508-f496-4b33-a653-496618b4c84d bpinsard@nc20441.narval.calcul.quebec:/localscratch/bpinsard.6327053.0/fmriprep_studyfriends_sub02_ses047.job timestamp=1653706094.374337844s
 11b0ab93-a987-42b0-b340-313febf80504 bpinsard@blg8620.int.ets1.calculquebec.ca:/localscratch/bpinsard.26933224.0/fmriprep_studyfriends_sub01_ses022.job timestamp=1635123066.98954316s
 1254c20b-e0f2-4957-8ca3-b92bc346ee76 bpinsard@blg8220.int.ets1.calculquebec.ca:/localscratch/bpinsard.27321102.0/fmriprep_studyfriends_sub04_ses035.job timestamp=1635915023.674912071s
 12ca91b3-6ea0-4661-91e1-10e2f5c45efe bpinsard@blg8220.int.ets1.calculquebec.ca:/localscratch/bpinsard.27321050.0/fmriprep_studyfriends_sub03_ses040.job timestamp=1635912127.141972862s
@@ -40,6 +43,7 @@
 20f09e3d-c6b6-446a-91f2-8e0d7d01d41b bpinsard@blg4321.int.ets1.calculquebec.ca:/localscratch/bpinsard.27341818.0/fmriprep_studyfriends_sub04_ses043.job timestamp=1635958288.567054061s
 21558138-0655-4c9e-9644-dd4f0fb62803 bpinsard@blg8211.int.ets1.calculquebec.ca:/localscratch/bpinsard.27321093.0/fmriprep_studyfriends_sub04_ses026.job timestamp=1635914349.467037229s
 21653f63-f4c6-4c3d-9c74-3785d38e0266 bpinsard@blg8446.int.ets1.calculquebec.ca:/localscratch/bpinsard.27321125.0/fmriprep_studyfriends_sub06_ses002.job timestamp=1635920263.004326448s
+21837ce1-f9dd-472f-bcc1-b1c0a44eba75 bpinsard@nc20519.narval.calcul.quebec:/localscratch/bpinsard.6327057.0/fmriprep_studyfriends_sub02_ses051.job timestamp=1653705924.305113305s
 218cb32b-09a4-48c8-ad71-13df64f79f93 bpinsard@blg6241.int.ets1.calculquebec.ca:/localscratch/bpinsard.27321083.0/fmriprep_studyfriends_sub04_ses016.job timestamp=1635913935.386101131s
 2204cf48-deb0-43bc-905c-e5def5e3699d bpinsard@blg8250.int.ets1.calculquebec.ca:/localscratch/bpinsard.27321092.0/fmriprep_studyfriends_sub04_ses025.job timestamp=1635914373.541245036s
 232ca909-a919-406a-94c6-592bc29e35ad bpinsard@blg8245.int.ets1.calculquebec.ca:/localscratch/bpinsard.27321044.0/fmriprep_studyfriends_sub03_ses034.job timestamp=1635912114.744664718s
@@ -47,6 +51,7 @@
 24198021-2d9c-427f-b6d1-40c24342beac bpinsard@nc10550.narval.calcul.quebec:/localscratch/bpinsard.4218788.0/fmriprep_studyfriends_sub05_ses016.job timestamp=1648946812.177068799s
 245d1de3-c339-42c8-8f19-082d240f67a7 bpinsard@blg8644.int.ets1.calculquebec.ca:/localscratch/bpinsard.26933184.0/fmriprep_studyfriends_sub01_ses008.job timestamp=1635120337.385142246s
 248f67b3-4146-4f56-9699-94bba316badd bpinsard@nc20528.narval.calcul.quebec:/localscratch/bpinsard.6327060.0/fmriprep_studyfriends_sub02_ses054.job timestamp=1653706151.949208196s
+24b6daaa-fd1f-469e-a425-8fc5a1dbe830 bpinsard@nc30322.narval.calcul.quebec:/localscratch/bpinsard.6327043.0/fmriprep_studyfriends_sub01_ses041.job timestamp=1653705354.02989865s
 253486bb-f4be-41b5-bc8a-34b4e844715c bpinsard@nc20623.narval.calcul.quebec:/localscratch/bpinsard.4218805.0/fmriprep_studyfriends_sub06_ses034.job timestamp=1648947490.871104244s
 26fe344d-5447-42a6-929a-f066710e7f31 bpinsard@blg8611.int.ets1.calculquebec.ca:/localscratch/bpinsard.27320992.0/fmriprep_studyfriends_sub02_ses017.job timestamp=1635900816.40916768s
 2773bef9-f784-4700-a4de-7253b59f8ab7 bpinsard@blg7519.int.ets1.calculquebec.ca:/localscratch/bpinsard.27341812.0/fmriprep_studyfriends_sub03_ses052.job timestamp=1635958059.850685535s
@@ -60,8 +65,10 @@
 2dcf708f-2782-4064-983e-3fe9545bdd5d bpinsard@blg4312.int.ets1.calculquebec.ca:/localscratch/bpinsard.26933216.0/fmriprep_studyfriends_sub01_ses015.job timestamp=1635120607.126881235s
 2f47eb83-9707-4ac9-8ae7-e757fbd7bb4e bpinsard@blg8450.int.ets1.calculquebec.ca:/localscratch/bpinsard.27320986.0/fmriprep_studyfriends_sub02_ses012.job timestamp=1635900481.671740673s
 2f4cd0e5-5677-43a4-8523-a1c20d1026c4 bpinsard@blg8253.int.ets1.calculquebec.ca:/localscratch/bpinsard.27321022.0/fmriprep_studyfriends_sub03_ses012.job timestamp=1635904417.554980166s
+2fa8e85b-6b9a-49b5-b577-f86872d38f6e bpinsard@nc20601.narval.calcul.quebec:/localscratch/bpinsard.6327071.0/fmriprep_studyfriends_sub06_ses040.job timestamp=1653708650.845621056s
 300db1ae-df24-4bee-9180-2dca9d767365 bpinsard@nc20220.narval.calcul.quebec:/localscratch/bpinsard.4218789.0/fmriprep_studyfriends_sub05_ses017.job timestamp=1648947173.096147426s
 32550a9d-5e7b-440c-a390-03f477913149 bpinsard@blg8213.int.ets1.calculquebec.ca:/localscratch/bpinsard.27321070.0/fmriprep_studyfriends_sub04_ses003.job timestamp=1635913282.49761086s
+32a7d3ce-cd68-44bd-898f-982ddc2c8173 bpinsard@nc20605.narval.calcul.quebec:/localscratch/bpinsard.6327072.0/fmriprep_studyfriends_sub06_ses041.job timestamp=1653708923.745787969s
 331d249b-ef4b-4b9b-82f4-77ae7111a329 bpinsard@blg8417.int.ets1.calculquebec.ca:/localscratch/bpinsard.27321126.0/fmriprep_studyfriends_sub06_ses003.job timestamp=1635919944.621062321s
 343cfcdc-1b10-40e6-8f57-09df04bbf2e1 bpinsard@blg4817.int.ets1.calculquebec.ca:/localscratch/bpinsard.26933185.0/fmriprep_studyfriends_sub01_ses009.job timestamp=1635120391.029152004s
 358edeb4-c013-49e6-879b-d944ee48de83 bpinsard@narval2.narval.calcul.quebec:/lustre07/scratch/bpinsard/cneuromod.processed/fmriprep/friends timestamp=1647652667.428409435s
@@ -103,6 +110,7 @@
 4f111d17-e4dc-45ac-a213-adb3adb4ec99 bpinsard@blg8218.int.ets1.calculquebec.ca:/localscratch/bpinsard.27321098.0/fmriprep_studyfriends_sub04_ses031.job timestamp=1635914656.063966205s
 56a4c2ff-f294-42d6-8395-3389281f8204 bpinsard@blg4513.int.ets1.calculquebec.ca:/localscratch/bpinsard.27341809.0/fmriprep_studyfriends_sub03_ses050.job timestamp=1635958099.40267245s
 5ba544e5-13e8-435a-9039-7c4d55fba0d3 bpinsard@nc20236.narval.calcul.quebec:/localscratch/bpinsard.4218784.0/fmriprep_studyfriends_sub03_ses067.job timestamp=1648946860.070378951s
+5bb44b42-d379-4022-940d-bbed0fc57582 bpinsard@nc31136.narval.calcul.quebec:/localscratch/bpinsard.6327050.0/fmriprep_studyfriends_sub02_ses042.job timestamp=1653705682.340465007s
 5cee17c1-3da0-49d4-8fc0-25cb5ea437d3 bpinsard@nc30316.narval.calcul.quebec:/localscratch/bpinsard.4218759.0/fmriprep_studyfriends_sub01_ses030.job timestamp=1648946261.94125432s
 62952864-192a-4088-8325-c36da84ed1e8 bpinsard@blg8638.int.ets1.calculquebec.ca:/localscratch/bpinsard.26933181.0/fmriprep_studyfriends_sub01_ses005.job timestamp=1635120350.654157899s
 64ced3ee-76cc-46d9-8169-d4de1c025a8b bpinsard@blg8244.int.ets1.calculquebec.ca:/localscratch/bpinsard.27321107.0/fmriprep_studyfriends_sub04_ses040.job timestamp=1635915719.609786558s
@@ -110,6 +118,7 @@
 65b64c98-2cd0-446b-83bd-7defa143e3af bpinsard@blg6141.int.ets1.calculquebec.ca:/localscratch/bpinsard.27321031.0/fmriprep_studyfriends_sub03_ses021.job timestamp=1635905886.270472785s
 677702d0-486d-4af0-b246-78571034600b bpinsard@blg8415.int.ets1.calculquebec.ca:/localscratch/bpinsard.27321038.0/fmriprep_studyfriends_sub03_ses028.job timestamp=1635910099.370296204s
 6927721b-24f5-46ea-a0d1-d1ce9985d4ec bpinsard@blg8446.int.ets1.calculquebec.ca:/localscratch/bpinsard.27321043.0/fmriprep_studyfriends_sub03_ses033.job timestamp=1635912150.291818968s
+699d569c-96ab-4f05-9e79-8a0c30ac8976 bpinsard@nc20528.narval.calcul.quebec:/localscratch/bpinsard.6327059.0/fmriprep_studyfriends_sub02_ses053.job timestamp=1653706186.539061305s
 6a56976e-f1fe-4ca1-a9a2-46f812e636cf bpinsard@blg8453.int.ets1.calculquebec.ca:/localscratch/bpinsard.27320987.0/fmriprep_studyfriends_sub02_ses013.job timestamp=1635900504.948130998s
 6a685419-d843-4505-8792-107183db7048 bpinsard@blg8235.int.ets1.calculquebec.ca:/localscratch/bpinsard.27321119.0/fmriprep_studyfriends_sub05_ses009.job timestamp=1635919620.064563415s
 6a96a6a6-f237-4ae6-80a2-a04c9f08ee46 bpinsard@blg8242.int.ets1.calculquebec.ca:/localscratch/bpinsard.27321032.0/fmriprep_studyfriends_sub03_ses022.job timestamp=1635905899.937899999s
@@ -119,6 +128,7 @@
 6c6da349-607d-4153-978b-fd7abb3efbfa bpinsard@blg5310.int.ets1.calculquebec.ca:/localscratch/bpinsard.27321058.0/fmriprep_studyfriends_sub03_ses048.job timestamp=1635912628.749800632s
 6c9728f6-9aff-48de-9eae-517100f72891 bpinsard@blg8230.int.ets1.calculquebec.ca:/localscratch/bpinsard.27321074.0/fmriprep_studyfriends_sub04_ses007.job timestamp=1635913487.654668731s
 6cf87969-4222-477e-835b-2f0ec402b9f1 bpinsard@blg8451.int.ets1.calculquebec.ca:/localscratch/bpinsard.27341820.0/fmriprep_studyfriends_sub05_ses013.job timestamp=1635960991.215865685s
+6d4289e5-5ddd-4850-8a92-aae885f36afc bpinsard@nc20408.narval.calcul.quebec:/localscratch/bpinsard.6327045.0/fmriprep_studyfriends_sub01_ses043.job timestamp=1653705435.559742476s
 6ea2b47c-2720-4b13-8bb8-1b1a3cbbf486 bpinsard@blg5819.int.ets1.calculquebec.ca:/localscratch/bpinsard.27320995.0/fmriprep_studyfriends_sub02_ses020.job timestamp=1635901197.699037589s
 7033e603-1c0c-4e4d-b19c-cb3bc5e2edfd bpinsard@blg8235.int.ets1.calculquebec.ca:/localscratch/bpinsard.27321015.0/fmriprep_studyfriends_sub03_ses005.job timestamp=1635902596.826774801s
 70881183-2be7-45eb-b5d3-bacc78ef8564 bpinsard@nc30401.narval.calcul.quebec:/localscratch/bpinsard.4218806.0/fmriprep_studyfriends_sub06_ses035.job timestamp=1648947669.48558995s
@@ -127,6 +137,7 @@
 72618187-8c4c-426d-a5d8-70285c7b846e bpinsard@blg8235.int.ets1.calculquebec.ca:/localscratch/bpinsard.27321014.0/fmriprep_studyfriends_sub03_ses004.job timestamp=1635902670.510529763s
 73cdfc5e-e600-46f9-bc3c-b5da8ee4032b bpinsard@blg8223.int.ets1.calculquebec.ca:/localscratch/bpinsard.27321143.0/fmriprep_studyfriends_sub06_ses021.job timestamp=1635920700.892381145s
 748622f3-e71c-4f49-837d-3c3a0a204b16 bpinsard@blg8217.int.ets1.calculquebec.ca:/localscratch/bpinsard.27321105.0/fmriprep_studyfriends_sub04_ses038.job timestamp=1635915360.331403322s
+7517508a-eeec-42f6-b088-7411f060de3f bpinsard@nc20408.narval.calcul.quebec:/localscratch/bpinsard.6327044.0/fmriprep_studyfriends_sub01_ses042.job timestamp=1653705468.740279558s
 768e46c9-ebe1-420f-b7d4-726390858904 bpinsard@nc30433.narval.calcul.quebec:/localscratch/bpinsard.4218798.0/fmriprep_studyfriends_sub05_ses025.job timestamp=1648947267.312230997s
 7865ec58-3722-458f-93c6-39f00d72c2e6 bpinsard@blg4819.int.ets1.calculquebec.ca:/localscratch/bpinsard.26933211.0/fmriprep_studyfriends_sub01_ses011.job timestamp=1635120558.097614469s
 79371621-9aab-4632-958e-89f45476d88a bpinsard@nc30645.narval.calcul.quebec:/localscratch/bpinsard.4218766.0/fmriprep_studyfriends_sub01_ses037.job timestamp=1648946383.556881004s
@@ -140,6 +151,7 @@
 82703347-1388-41fe-ab8d-c3c1aa3126ef bpinsard@blg8452.int.ets1.calculquebec.ca:/localscratch/bpinsard.27321118.0/fmriprep_studyfriends_sub05_ses008.job timestamp=1635918818.506035468s
 85c8add7-50dd-4ac8-a613-3158641b2733 bpinsard@nc30134.narval.calcul.quebec:/localscratch/bpinsard.5871294.0/fmriprep_studyfriends_sub05_ses025.job timestamp=1652896391.795025329s
 86b47848-fa0e-4f32-bcaf-e1d658a9aa11 bpinsard@nc20220.narval.calcul.quebec:/localscratch/bpinsard.4218791.0/fmriprep_studyfriends_sub05_ses019.job timestamp=1648947149.020326015s
+8828e601-8c6c-4c0c-8e9e-e23dcf269689 bpinsard@nc10405.narval.calcul.quebec:/localscratch/bpinsard.6327063.0/fmriprep_studyfriends_sub02_ses057.job timestamp=1653706473.206778449s
 88b0f03c-1d24-4edb-a4dd-cb8b3b1421a4 bpinsard@nc10314.narval.calcul.quebec:/localscratch/bpinsard.4211586.0/fmriprep_studyfriends_sub01_ses010.job timestamp=1648926074.333387476s
 88d09524-b570-4fe4-8f82-75cd67f48233 bpinsard@blg8227.int.ets1.calculquebec.ca:/localscratch/bpinsard.27321112.0/fmriprep_studyfriends_sub05_ses002.job timestamp=1635917661.499908583s
 895c9842-9496-428e-b8b7-723d41e3698a bpinsard@blg8641.int.ets1.calculquebec.ca:/localscratch/bpinsard.26902657.0/fmriprep_studyfriends_sub01_ses001.job timestamp=1635047971.044911301s
@@ -148,8 +160,10 @@
 8c64f587-f389-4cb5-93cf-7928c9ccfc60 bpinsard@blg7252.int.ets1.calculquebec.ca:/localscratch/bpinsard.27321077.0/fmriprep_studyfriends_sub04_ses010.job timestamp=1635913874.859481035s
 8ccf17c8-1138-4f8c-9921-970562fcd3e9 bpinsard@blg8642.int.ets1.calculquebec.ca:/localscratch/bpinsard.27285923.0/fmriprep_studyfriends_sub01_ses029.job timestamp=1635820427.32024041s
 8d9f47e7-0885-4d50-b2d6-b51ccd4a6cdc ria-narval-storage timestamp=1639078453.642204594s
+8e3324f0-7889-4bf7-acc9-a4059dc41dc1 bpinsard@nc31113.narval.calcul.quebec:/localscratch/bpinsard.6327047.0/fmriprep_studyfriends_sub01_ses045.job timestamp=1653705587.445843105s
 8eeafc0d-b5eb-461f-8864-a75d7cf270ce bpinsard@nc10519.narval.calcul.quebec:/localscratch/bpinsard.4218787.0/fmriprep_studyfriends_sub05_ses015.job timestamp=1648946720.61783281s
 90710cf1-cf7e-4de9-af3c-06b41e71823d bpinsard@blg8239.int.ets1.calculquebec.ca:/localscratch/bpinsard.27321016.0/fmriprep_studyfriends_sub03_ses006.job timestamp=1635902660.534844215s
+937308c2-153e-4acb-8a62-1f360957c556 bpinsard@nc20533.narval.calcul.quebec:/localscratch/bpinsard.6327062.0/fmriprep_studyfriends_sub02_ses056.job timestamp=1653706284.443490775s
 93a063c3-1e0f-4203-9b25-13a3c3ac7004 bpinsard@blg4510.int.ets1.calculquebec.ca:/localscratch/bpinsard.26933220.0/fmriprep_studyfriends_sub01_ses018.job timestamp=1635120917.94665709s
 94a21297-4230-4b0b-8895-70fab2b6fb19 bpinsard@nc31128.narval.calcul.quebec:/localscratch/bpinsard.4218773.0/fmriprep_studyfriends_sub02_ses041.job timestamp=1648946687.973202626s
 95e2d816-9caa-441e-988b-4085271681cd bpinsard@nc10309.narval.calcul.quebec:/localscratch/bpinsard.4218780.0/fmriprep_studyfriends_sub03_ses063.job timestamp=1648946754.115491185s
@@ -162,6 +176,7 @@
 9c677c8d-ae22-41c3-b19a-7b6b8c40829e bpinsard@blg8213.int.ets1.calculquebec.ca:/localscratch/bpinsard.27320996.0/fmriprep_studyfriends_sub02_ses021.job timestamp=1635901172.545296073s
 9cfdf9b2-b737-402a-96cd-2b433b0f4408 bpinsard@nc30430.narval.calcul.quebec:/localscratch/bpinsard.4218796.0/fmriprep_studyfriends_sub05_ses024.job timestamp=1648947310.022256227s
 9f314a03-398f-4262-b661-d800fde5acef bpinsard@blg7530.int.ets1.calculquebec.ca:/localscratch/bpinsard.27341814.0/fmriprep_studyfriends_sub03_ses055.job timestamp=1635957970.443648684s
+a425b313-6735-4254-9ae7-a6684fb0c9e8 bpinsard@nc30436.narval.calcul.quebec:/localscratch/bpinsard.6327052.0/fmriprep_studyfriends_sub02_ses046.job timestamp=1653705778.205064407s
 a4b51839-fd99-4fc6-b356-9bce5dbdbec9 bpinsard@nc30601.narval.calcul.quebec:/localscratch/bpinsard.4218763.0/fmriprep_studyfriends_sub01_ses034.job timestamp=1648946071.216131286s
 a55b3561-f6b3-4503-a48a-959075ebe0b7 bpinsard@nc10901.narval.calcul.quebec:/localscratch/bpinsard.4218761.0/fmriprep_studyfriends_sub01_ses032.job timestamp=1648946304.054518446s
 a67e1e63-080f-4555-b150-a46f1a29551d bpinsard@blg8223.int.ets1.calculquebec.ca:/localscratch/bpinsard.27321012.0/fmriprep_studyfriends_sub03_ses002.job timestamp=1635902239.792263677s
@@ -204,6 +219,7 @@ ca7f501d-446d-483a-bc99-48e2250c1b3f bpinsard@blg8439.int.ets1.calculquebec.ca:/
 caf47290-12b3-4635-9c2f-a5762c43c5c8 bpinsard@blg5411.int.ets1.calculquebec.ca:/localscratch/bpinsard.27321021.0/fmriprep_studyfriends_sub03_ses011.job timestamp=1635904063.638148739s
 cb2968e4-27d8-4efc-96de-4a04d85fa637 bpinsard@nc10322.narval.calcul.quebec:/localscratch/bpinsard.4218772.0/fmriprep_studyfriends_sub02_ses040.job timestamp=1648946625.734491168s
 cb9358cc-ed09-4a2d-a679-c4a185e1f2c7 bpinsard@blg8442.int.ets1.calculquebec.ca:/localscratch/bpinsard.27321023.0/fmriprep_studyfriends_sub03_ses013.job timestamp=1635904778.138147868s
+cbd9f0b9-7cd1-4acc-87d9-56d932c2a830 bpinsard@nc31136.narval.calcul.quebec:/localscratch/bpinsard.6327049.0/fmriprep_studyfriends_sub02_ses039.job timestamp=1653705733.073930529s
 cc372629-c661-4036-8966-991995b38999 bpinsard@blg5213.int.ets1.calculquebec.ca:/localscratch/bpinsard.27321057.0/fmriprep_studyfriends_sub03_ses047.job timestamp=1635912618.252864886s
 cdb52022-8a72-49ba-b46f-5ec292dbe990 bpinsard@nc10304.narval.calcul.quebec:/localscratch/bpinsard.4218771.0/fmriprep_studyfriends_sub02_ses038.job timestamp=1648946591.829240351s
 ce89b3d4-5cef-4a1e-a740-6f599af1b1ae bpinsard@blg8239.int.ets1.calculquebec.ca:/localscratch/bpinsard.27321078.0/fmriprep_studyfriends_sub04_ses011.job timestamp=1635913907.415980219s
@@ -223,6 +239,7 @@ d68eaca4-996d-4aaa-85ce-47d27241acc9 bpinsard@blg8253.int.ets1.calculquebec.ca:/
 d6d88691-32c4-412f-85f0-6c27a27e669d ria-sequoia-storage timestamp=1645044246.540263731s
 d70327ae-8b88-4560-9efd-bd019f821d4e bpinsard@blg5211.int.ets1.calculquebec.ca:/localscratch/bpinsard.27320998.0/fmriprep_studyfriends_sub02_ses023.job timestamp=1635901210.337522206s
 dc50c3ca-89f3-4996-88b6-f4d63956ac0e bpinsard@blg8443.int.ets1.calculquebec.ca:/localscratch/bpinsard.27321086.0/fmriprep_studyfriends_sub04_ses019.job timestamp=1635914327.125491711s
+dc862f81-ca0a-41e7-99c2-d51be855c4fc bpinsard@nc20519.narval.calcul.quebec:/localscratch/bpinsard.6327058.0/fmriprep_studyfriends_sub02_ses052.job timestamp=1653705888.043054051s
 dd0f1b4f-ca4f-4da0-871e-39c3b7545aad bpinsard@blg8253.int.ets1.calculquebec.ca:/localscratch/bpinsard.27321115.0/fmriprep_studyfriends_sub05_ses005.job timestamp=1635918465.514730081s
 dd4f8905-e73f-459e-bc80-9ab780d258e3 bpinsard@blg8231.int.ets1.calculquebec.ca:/localscratch/bpinsard.27320994.0/fmriprep_studyfriends_sub02_ses019.job timestamp=1635900826.841816487s
 de0be90b-a82e-4edd-b6a6-b87c3379c0fa bpinsard@blg8442.int.ets1.calculquebec.ca:/localscratch/bpinsard.27321149.0/fmriprep_studyfriends_sub06_ses027.job timestamp=1635920985.140394815s
@@ -238,6 +255,7 @@ e3be1835-ee26-4ce2-8b23-881383ac2303 bpinsard@blg8630.int.ets1.calculquebec.ca:/
 e40c92cf-33e2-4330-9cf2-57071d8648f0 bpinsard@blg8412.int.ets1.calculquebec.ca:/localscratch/bpinsard.27321024.0/fmriprep_studyfriends_sub03_ses014.job timestamp=1635904791.024060694s
 e47f4fc6-566b-4f8c-9e83-f09a640cef53 bpinsard@blg5310.int.ets1.calculquebec.ca:/localscratch/bpinsard.27320999.0/fmriprep_studyfriends_sub02_ses024.job timestamp=1635901184.636151386s
 e5cd99d1-3c76-4362-b54e-17f97678ce49 bpinsard@blg8633.int.ets1.calculquebec.ca:/localscratch/bpinsard.26933179.0/fmriprep_studyfriends_sub01_ses003.job timestamp=1635120363.722447325s
+e6d35d42-7b7e-4b36-90a0-8dbdc9c50e7f bpinsard@nc20507.narval.calcul.quebec:/localscratch/bpinsard.6327069.0/fmriprep_studyfriends_sub03_ses074.job timestamp=1653706622.487748762s
 e77ca144-2fb5-4bfb-ae47-70733d9b5f92 bpinsard@blg8643.int.ets1.calculquebec.ca:/localscratch/bpinsard.26933183.0/fmriprep_studyfriends_sub01_ses007.job timestamp=1635120376.551181955s
 e85ef6d3-8b02-4dcd-9fc8-b64d3ee96f5c bpinsard@blg8413.int.ets1.calculquebec.ca:/localscratch/bpinsard.27321133.0/fmriprep_studyfriends_sub06_ses010.job timestamp=1635920274.037970418s
 e8dfd6d5-7663-407b-b392-6200330fbe7a bpinsard@beluga1.int.ets1.calculquebec.ca:/lustre03/project/6003287/datasets/cneuromod_processed/fmriprep/friends timestamp=1624460393.265081s
@@ -256,4 +274,6 @@ f83b3df8-b810-45c2-9c68-c90b847cbba4 bpinsard@nc10935.narval.calcul.quebec:/loca
 f85e84c2-b184-4c42-a183-503f4847cbd3 bpinsard@blg8124.int.ets1.calculquebec.ca:/localscratch/bpinsard.27321094.0/fmriprep_studyfriends_sub04_ses027.job timestamp=1635914697.526032547s
 f8fe9c09-41dd-4f4a-9421-71819f9adc3e bpinsard@nc10138.narval.calcul.quebec:/localscratch/bpinsard.4218802.0/fmriprep_studyfriends_sub06_ses031.job timestamp=1648947571.768862512s
 f9698b9b-6d75-45b2-b205-53a9ea0ab705 bpinsard@nc10917.narval.calcul.quebec:/localscratch/bpinsard.4218778.0/fmriprep_studyfriends_sub03_ses061.job timestamp=1648946529.255464309s
+fda32d69-a96c-4085-a481-0b42ac51f944 bpinsard@nc20533.narval.calcul.quebec:/localscratch/bpinsard.6327061.0/fmriprep_studyfriends_sub02_ses055.job timestamp=1653706248.252815731s
+feaa5f9c-9834-4fd9-9c98-f2a3b8799a25 bpinsard@nc20444.narval.calcul.quebec:/localscratch/bpinsard.6327046.0/fmriprep_studyfriends_sub01_ses044.job timestamp=1653705529.292791862s
 feca89c9-0c38-4c56-a41c-b3489e9f5600 bpinsard@nc10518.narval.calcul.quebec:/localscratch/bpinsard.4218786.0/fmriprep_studyfriends_sub05_ses014.job timestamp=1648946955.721871231s
