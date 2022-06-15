@@ -64,6 +64,17 @@
         "data",
         "projectManagement"
       ]
+    },
+    {
+      "login": "maelleF",
+      "name": "maelleF",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29599311?v=4",
+      "profile": "https://github.com/maelleF",
+      "contributions": [
+        "data",
+        "userTesting",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7
