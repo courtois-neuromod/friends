@@ -22,5 +22,26 @@ Courtois NeuroMod data are [freely shared with the scientific community](https:/
 
 ## Contributors
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/FrancoisPgm"><img src="https://avatars.githubusercontent.com/u/35327799?v=4?s=100" width="100px;" alt=""/><br /><sub><b>François Paugam</b></sub></a><br /><a href="#data-FrancoisPgm" title="Data">🔣</a> <a href="#userTesting-FrancoisPgm" title="User Testing">📓</a></td>
+    <td align="center"><a href="https://github.com/bpinsard"><img src="https://avatars.githubusercontent.com/u/1155388?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Basile</b></sub></a><br /><a href="https://github.com/courtois-neuromod/friends/commits?author=bpinsard" title="Code">💻</a> <a href="#data-bpinsard" title="Data">🔣</a> <a href="#ideas-bpinsard" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-bpinsard" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://github.com/MarieStLaurent"><img src="https://avatars.githubusercontent.com/u/9339621?v=4?s=100" width="100px;" alt=""/><br /><sub><b>MarieStLaurent</b></sub></a><br /><a href="#data-MarieStLaurent" title="Data">🔣</a> <a href="#design-MarieStLaurent" title="Design">🎨</a> <a href="#ideas-MarieStLaurent" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/courtois-neuromod/friends/commits?author=MarieStLaurent" title="Code">💻</a> <a href="#userTesting-MarieStLaurent" title="User Testing">📓</a></td>
+    <td align="center"><a href="https://github.com/emilie-dessureault"><img src="https://avatars.githubusercontent.com/u/61021023?v=4?s=100" width="100px;" alt=""/><br /><sub><b>emilie-dessureault</b></sub></a><br /><a href="#projectManagement-emilie-dessureault" title="Project Management">📆</a> <a href="#data-emilie-dessureault" title="Data">🔣</a></td>
+    <td align="center"><a href="https://github.com/julieaboyle1"><img src="https://avatars.githubusercontent.com/u/39348727?v=4?s=100" width="100px;" alt=""/><br /><sub><b>jboyle</b></sub></a><br /><a href="#design-julieaboyle1" title="Design">🎨</a> <a href="#ideas-julieaboyle1" title="Ideas, Planning, & Feedback">🤔</a> <a href="#data-julieaboyle1" title="Data">🔣</a> <a href="#projectManagement-julieaboyle1" title="Project Management">📆</a></td>
+    <td align="center"><a href="https://github.com/maelleF"><img src="https://avatars.githubusercontent.com/u/29599311?v=4?s=100" width="100px;" alt=""/><br /><sub><b>maelleF</b></sub></a><br /><a href="#data-maelleF" title="Data">🔣</a> <a href="#userTesting-maelleF" title="User Testing">📓</a> <a href="https://github.com/courtois-neuromod/friends/issues?q=author%3AmaelleF" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="http://simexp-lab.org"><img src="https://avatars.githubusercontent.com/u/1670887?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Pierre Bellec</b></sub></a><br /><a href="#design-pbellec" title="Design">🎨</a> <a href="#ideas-pbellec" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/courtois-neuromod/friends/pulls?q=is%3Apr+reviewed-by%3Apbellec" title="Reviewed Pull Requests">👀</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/pravishsainath"><img src="https://avatars.githubusercontent.com/u/13696562?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Pravish Sainath</b></sub></a><br /><a href="#data-pravishsainath" title="Data">🔣</a></td>
+    <td align="center"><a href="https://github.com/sangfrois"><img src="https://avatars.githubusercontent.com/u/38385719?v=4?s=100" width="100px;" alt=""/><br /><sub><b>François Lespinasse</b></sub></a><br /><a href="#data-sangfrois" title="Data">🔣</a></td>
+    <td align="center"><a href="https://github.com/bamal"><img src="https://avatars.githubusercontent.com/u/10996072?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Amal </b></sub></a><br /><a href="#data-bamal" title="Data">🔣</a> <a href="#userTesting-bamal" title="User Testing">📓</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
