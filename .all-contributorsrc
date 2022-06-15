@@ -1,5 +1,25 @@
 {
   "files": [
     "README"
-  ]
+  ],
+  "projectName": "friends",
+  "projectOwner": "courtois-neuromod",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true,
+  "contributors": [
+    {
+      "login": "bpinsard",
+      "name": "Basile",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1155388?v=4",
+      "profile": "https://github.com/bpinsard",
+      "contributions": [
+        "code",
+        "data",
+        "ideas",
+        "maintenance"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
 }
