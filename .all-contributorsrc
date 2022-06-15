@@ -1,5 +1,23 @@
 {
   "files": [
     "README"
-  ]
+  ],
+  "projectName": "friends",
+  "projectOwner": "courtois-neuromod",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true,
+  "contributors": [
+    {
+      "login": "amal",
+      "name": "Artyom Krivolapov",
+      "avatar_url": "https://avatars.githubusercontent.com/u/423417?v=4",
+      "profile": "https://reedy-reader.com",
+      "contributions": [
+        "data",
+        "userTesting"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
 }
