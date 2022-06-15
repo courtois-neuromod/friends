@@ -1,5 +1,23 @@
 {
   "files": [
     "README"
-  ]
+  ],
+  "projectName": "friends",
+  "projectOwner": "courtois-neuromod",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true,
+  "contributors": [
+    {
+      "login": "emilie-dessureault",
+      "name": "emilie-dessureault",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61021023?v=4",
+      "profile": "https://github.com/emilie-dessureault",
+      "contributions": [
+        "projectManagement",
+        "data"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
 }
