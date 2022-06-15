@@ -29,6 +29,19 @@
         "ideas",
         "maintenance"
       ]
+    },
+    {
+      "login": "MarieStLaurent",
+      "name": "MarieStLaurent",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9339621?v=4",
+      "profile": "https://github.com/MarieStLaurent",
+      "contributions": [
+        "data",
+        "design",
+        "ideas",
+        "code",
+        "userTesting"
+      ]
     }
   ],
   "contributorsPerLine": 7
