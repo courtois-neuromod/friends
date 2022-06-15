@@ -104,6 +104,16 @@
       "contributions": [
         "data"
       ]
+    },
+    {
+      "login": "bamal",
+      "name": "Amal ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10996072?v=4",
+      "profile": "https://github.com/bamal",
+      "contributions": [
+        "data",
+        "userTesting"
+      ]
     }
   ],
   "contributorsPerLine": 7
