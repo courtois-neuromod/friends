@@ -1,5 +1,23 @@
 {
   "files": [
     "README"
-  ]
+  ],
+  "projectName": "friends",
+  "projectOwner": "courtois-neuromod",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true,
+  "contributors": [
+    {
+      "login": "FrancoisPgm",
+      "name": "François Paugam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35327799?v=4",
+      "profile": "https://github.com/FrancoisPgm",
+      "contributions": [
+        "data",
+        "userTesting"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
 }
