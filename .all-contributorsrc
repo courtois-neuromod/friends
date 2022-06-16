@@ -114,6 +114,15 @@
         "data",
         "userTesting"
       ]
+    },
+    {
+      "login": "me-pic",
+      "name": "Marie-Eve Picard (she/her)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77584086?v=4",
+      "profile": "https://github.com/me-pic",
+      "contributions": [
+        "data"
+      ]
     }
   ],
   "contributorsPerLine": 7
