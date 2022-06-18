@@ -31,7 +31,7 @@
   "InstitutionName": "IUGM",
   "InstitutionalDepartmentName": "Department",
   "IntendedFor": [
-    "ses-001/func/sub-03_ses-001_task-s01e01b_bold.nii.gz"
+    "ses-001/func/sub-03_ses-001_task-s01e06b_bold.nii.gz"
 ],
   "MRAcquisitionType": "2D",
   "MagneticFieldStrength": 3,
@@ -46,7 +46,7 @@
   "PhaseResolution": 1,
   "PixelBandwidth": 2290,
   "ProcedureStepDescription": "video_friends",
-  "ProtocolName": "func_task-s01e01b_SBRef",
+  "ProtocolName": "func_task-s01e06b_SBRef",
   "PulseSequenceDetails": "%CustomerSeq%_cmrr_mbep2d_bold",
   "ReceiveCoilActiveElements": "HC1-7;NC1,2",
   "ReceiveCoilName": "HeadNeck_64",
@@ -57,7 +57,7 @@
   "ScanningSequence": "EP",
   "SequenceName": "epfid2d1_104",
   "SequenceVariant": "SK_SS",
-  "SeriesDescription": "func_task-s01e01b_SBRef",
+  "SeriesDescription": "func_task-s01e06b_SBRef",
   "SeriesNumber": 10,
   "ShimSetting": [621, -7161, -8818, 671, 12, 161, 33, -3],
   "SliceThickness": 2,
@@ -128,7 +128,7 @@
       "PixelBandwidth": 2290.0,
       "PixelRepresentation": 0,
       "PixelSpacing": [2.0, 2.0],
-      "ProtocolName": "func_task-s01e01b_SBRef",
+      "ProtocolName": "func_task-s01e06b_SBRef",
       "RepetitionTime": 1490.0,
       "Rows": 832,
       "SAR": 0.02897690679212,
@@ -140,7 +140,7 @@
         "SK",
         "SS"
 ],
-      "SeriesDescription": "func_task-s01e01b_SBRef",
+      "SeriesDescription": "func_task-s01e06b_SBRef",
       "SeriesNumber": 10,
       "SeriesTime": "110455.682000",
       "SliceLocation": -41.397120293471,
