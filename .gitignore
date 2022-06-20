@@ -1,2 +1,2 @@
 .slurm
-.pybids_cache
+.pybids_cache*
