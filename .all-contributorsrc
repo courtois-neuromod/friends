@@ -1,5 +1,129 @@
 {
   "files": [
     "README"
-  ]
+  ],
+  "projectName": "friends",
+  "projectOwner": "courtois-neuromod",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true,
+  "contributors": [
+    {
+      "login": "FrancoisPgm",
+      "name": "François Paugam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35327799?v=4",
+      "profile": "https://github.com/FrancoisPgm",
+      "contributions": [
+        "data",
+        "userTesting"
+      ]
+    },
+    {
+      "login": "bpinsard",
+      "name": "Basile",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1155388?v=4",
+      "profile": "https://github.com/bpinsard",
+      "contributions": [
+        "code",
+        "data",
+        "ideas",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "MarieStLaurent",
+      "name": "MarieStLaurent",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9339621?v=4",
+      "profile": "https://github.com/MarieStLaurent",
+      "contributions": [
+        "data",
+        "design",
+        "ideas",
+        "code",
+        "userTesting"
+      ]
+    },
+    {
+      "login": "emilie-dessureault",
+      "name": "emilie-dessureault",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61021023?v=4",
+      "profile": "https://github.com/emilie-dessureault",
+      "contributions": [
+        "projectManagement",
+        "data"
+      ]
+    },
+    {
+      "login": "julieaboyle1",
+      "name": "jboyle",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39348727?v=4",
+      "profile": "https://github.com/julieaboyle1",
+      "contributions": [
+        "design",
+        "ideas",
+        "data",
+        "projectManagement"
+      ]
+    },
+    {
+      "login": "maelleF",
+      "name": "maelleF",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29599311?v=4",
+      "profile": "https://github.com/maelleF",
+      "contributions": [
+        "data",
+        "userTesting",
+        "bug"
+      ]
+    },
+    {
+      "login": "pbellec",
+      "name": "Pierre Bellec",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1670887?v=4",
+      "profile": "http://simexp-lab.org",
+      "contributions": [
+        "design",
+        "ideas",
+        "review"
+      ]
+    },
+    {
+      "login": "pravishsainath",
+      "name": "Pravish Sainath",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13696562?v=4",
+      "profile": "https://github.com/pravishsainath",
+      "contributions": [
+        "data"
+      ]
+    },
+    {
+      "login": "sangfrois",
+      "name": "François Lespinasse",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38385719?v=4",
+      "profile": "https://github.com/sangfrois",
+      "contributions": [
+        "data"
+      ]
+    },
+    {
+      "login": "bamal",
+      "name": "Amal ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10996072?v=4",
+      "profile": "https://github.com/bamal",
+      "contributions": [
+        "data",
+        "userTesting"
+      ]
+    },
+    {
+      "login": "me-pic",
+      "name": "Marie-Eve Picard (she/her)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77584086?v=4",
+      "profile": "https://github.com/me-pic",
+      "contributions": [
+        "data"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
 }
