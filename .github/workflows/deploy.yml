@@ -1,7 +1,7 @@
 name: Test deploy
 on:
   push:
-    branches: [ main, git-annex, tests]
+    branches: [ main, git-annex, rel/*]
   pull_request:
     branches: [ main ]
 jobs:
