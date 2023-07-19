@@ -32,6 +32,13 @@
   "InstitutionAddress": "Chemin Queen-Mary 4565,Montreal,District,CA,H3W 1W5",
   "InstitutionName": "IUGM",
   "InstitutionalDepartmentName": "Department",
+  "IntendedFor": [
+    "ses-080/func/sub-03_ses-080_task-s06e19b_bold.nii.gz",
+    "ses-080/func/sub-03_ses-080_task-s06e20a_bold.nii.gz",
+    "ses-080/func/sub-03_ses-080_task-s06e20b_bold.nii.gz",
+    "ses-080/func/sub-03_ses-080_task-s06e21a_bold.nii.gz",
+    "ses-080/func/sub-03_ses-080_task-s06e21b_bold.nii.gz"
+],
   "MRAcquisitionType": "2D",
   "MagneticFieldStrength": 3,
   "Manufacturer": "Siemens",
