@@ -1,0 +1,178 @@
+name: Scan session
+description: log session
+title: "[SCAN] sub-xx_ses-yyy"
+labels: [scan]
+assignees: 
+  - bpinsard
+body:
+- type: markdown
+  attributes:
+    value: "# general infos"
+
+- type: checkboxes
+  id: setup
+  attributes:
+    label: Setup
+    description: check all the equipment that was set up
+    options:
+      - label: biopac
+      - label: sensimetrics
+      - label: eyetracker
+
+- type: textarea
+  attributes:
+    label: general notes
+
+
+- type: markdown
+  attributes:
+    value: "## task-friends_run-01"
+- type: input
+  attributes:
+    label: task-friends_run-01 segment
+- type: checkboxes
+  attributes:
+    label: task-friends_run-01 completion  
+    options:
+      - label: series was completed.
+- type: dropdown
+  attributes:
+    label: task-friends_run-01 issues
+    multiple: true
+    options:
+      - sleep
+      - excessive motion
+      - eyetracking issues (crash, pupil loss)
+      - physio signal quality issue
+      - controller issues
+- type: textarea
+  attributes:
+    label: task-friends_run-01 notes
+
+- type: markdown
+  attributes:
+    value: "## task-friends_run-02"
+- type: input
+  attributes:
+    label: task-friends_run-02 segment
+- type: checkboxes
+  attributes:
+    label: task-friends_run-02 completion  
+    options:
+      - label: series was completed.
+- type: dropdown
+  attributes:
+    label: task-friends_run-02 issues
+    multiple: true
+    options:
+      - sleep
+      - excessive motion
+      - eyetracking issues (crash, pupil loss)
+      - physio signal quality issue
+      - controller issues
+- type: textarea
+  attributes:
+    label: task-friends_run-02 notes
+
+
+
+- type: markdown
+  attributes:
+    value: "## task-friends_run-03"
+- type: input
+  attributes:
+    label: task-friends_run-03 segment
+- type: checkboxes
+  attributes:
+    label: task-friends_run-03 completion  
+    options:
+      - label: series was completed.
+- type: dropdown
+  attributes:
+    label: task-friends_run-03 issues
+    multiple: true
+    options:
+      - sleep
+      - excessive motion
+      - eyetracking issues (crash, pupil loss)
+      - physio signal quality issue
+      - controller issues
+- type: textarea
+  attributes:
+    label: task-friends_run-03 notes
+
+- type: markdown
+  attributes:
+    value: "## task-friends_run-04"
+- type: input
+  attributes:
+    label: task-friends_run-04 segment
+- type: checkboxes
+  attributes:
+    label: task-friends_run-04 completion  
+    options:
+      - label: series was completed.
+- type: dropdown
+  attributes:
+    label: task-friends_run-04 issues
+    multiple: true
+    options:
+      - sleep
+      - excessive motion
+      - eyetracking issues (crash, pupil loss)
+      - physio signal quality issue
+      - controller issues
+- type: textarea
+  attributes:
+    label: task-friends_run-04 notes
+
+- type: markdown
+  attributes:
+    value: "## task-friends_run-05"
+- type: input
+  attributes:
+    label: task-friends_run-05 segment
+- type: checkboxes
+  attributes:
+    label: task-friends_run-05 completion  
+    options:
+      - label: series was completed.
+- type: dropdown
+  attributes:
+    label: task-friends_run-05 issues
+    multiple: true
+    options:
+      - sleep
+      - excessive motion
+      - eyetracking issues (crash, pupil loss)
+      - physio signal quality issue
+      - controller issues
+- type: textarea
+  attributes:
+    label: task-friends_run-05 notes
+
+
+- type: markdown
+  attributes:
+    value: "## task-friends_run-06"
+- type: input
+  attributes:
+    label: task-friends_run-06 segment
+- type: checkboxes
+  attributes:
+    label: task-friends_run-06 completion  
+    options:
+      - label: series was completed.
+- type: dropdown
+  attributes:
+    label: task-friends_run-06 issues
+    multiple: true
+    options:
+      - sleep
+      - excessive motion
+      - eyetracking issues (crash, pupil loss)
+      - physio signal quality issue
+      - controller issues
+- type: textarea
+  attributes:
+    label: task-friends_run-06 notes
