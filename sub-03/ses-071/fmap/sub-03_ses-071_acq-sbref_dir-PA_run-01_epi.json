@@ -32,7 +32,7 @@
   "InstitutionName": "IUGM",
   "InstitutionalDepartmentName": "Department",
   "IntendedFor": [
-    "ses-071/func/sub-03_ses-071_task-s06e01a_bold.nii.gz"
+    "ses-071/func/sub-03_ses-071_task-s06e03a_bold.nii.gz"
 ],
   "MRAcquisitionType": "2D",
   "MagneticFieldStrength": 3,
@@ -47,7 +47,7 @@
   "PhaseResolution": 1,
   "PixelBandwidth": 2290,
   "ProcedureStepDescription": "video_friends",
-  "ProtocolName": "func_task-friends-s06e01a",
+  "ProtocolName": "func_task-friends-s06e03a",
   "PulseSequenceDetails": "%CustomerSeq%_cmrr_mbep2d_bold",
   "ReceiveCoilActiveElements": "HC1-7;NC1,2",
   "ReceiveCoilName": "HeadNeck_64",
@@ -129,7 +129,7 @@
       "PixelBandwidth": 2290.0,
       "PixelRepresentation": 0,
       "PixelSpacing": [2.0, 2.0],
-      "ProtocolName": "func_task-friends-s06e01a",
+      "ProtocolName": "func_task-friends-s06e03a",
       "RepetitionTime": 1490.0,
       "Rows": 832,
       "SAR": 0.03722905420655,
