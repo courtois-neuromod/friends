@@ -22,7 +22,6 @@
     "ND",
     "MOSAIC"
 ],
-  "ImagingFrequency": 123.259,
   "InPlanePhaseEncodingDirectionDICOM": "COL",
   "InstitutionName": "IUGM",
   "InstitutionalDepartmentName": "Department",
@@ -52,13 +51,4 @@
   "SpacingBetweenSlices": 2,
   "StationName": "MRC35049",
   "TaskName": "TV series watching: Friends s06e02",
-  "TotalReadoutTime": 0.0576811,
-  "dcmmeta_reorient_transform": [
-    [0.0, -1.0, 0.0, 103.0],
-    [1.0, 0.0, 0.0, 0.0],
-    [0.0, 0.0, 1.0, 0.0],
-    [0.0, 0.0, 0.0, 1.0]
-],
-  "dcmmeta_shape": [104, 104, 60, 487],
-  "dcmmeta_slice_dim": 2,
-  "dcmmeta_version": 0.6}
+  "TotalReadoutTime": 0.0576811}
