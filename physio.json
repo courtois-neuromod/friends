@@ -1,0 +1,28 @@
+{
+  "StartTime": 9,
+  "SamplingFrequency": 10000,
+  "Columns": ["time", "EDA", "PPG", "ECG", "TTL", "RSP"],
+  "Manufacturer": "Biopac",
+  "ManufacturersModelName": "MP160",
+  "SofwareVersions": "Acqknowledge 5.0.4",
+  "DeviceSerialNumber": "1811A-0001F15",
+  "EDA": {
+    "Description": "continuous electrodermal measurement",
+    "Units": "AU"
+  },
+  "PPG": {
+    "Description": "continuous pulse measurement",
+    "Units": "V"
+  }, 
+  "ECG": {
+    "Description": "continuous electrocardiogram measurement",
+    "Units": "mV"
+  },
+  "TTL":{
+    "Description": "continuous measurement of the scanner trigger signal"
+  },
+  "RSP": {
+    "Description": "continuous measurements by respiration belt",
+    "Units": "cm H20"
+  }
+}
