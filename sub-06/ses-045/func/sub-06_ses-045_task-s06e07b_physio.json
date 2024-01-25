@@ -1,0 +1,12 @@
+{
+    "SamplingFrequency": 10000.0,
+    "StartTime": 0.0003,
+    "Columns": [
+        "time",
+        "cardiac_ppg",
+        "cardiac_ecg",
+        "trigger",
+        "respiratory",
+        "electrodermal"
+    ]
+}
