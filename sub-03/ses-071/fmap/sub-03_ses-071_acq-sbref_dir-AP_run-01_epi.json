@@ -32,7 +32,7 @@
   "InstitutionName": "IUGM",
   "InstitutionalDepartmentName": "Department",
   "IntendedFor": [
-    "ses-071/func/sub-03_ses-071_task-s06e01a_bold.nii.gz",
+    "ses-071/func/sub-03_ses-071_task-s06e03a_bold.nii.gz",
     "ses-071/func/sub-03_ses-071_task-s06e03b_bold.nii.gz",
     "ses-071/func/sub-03_ses-071_task-s06e04a_bold.nii.gz",
     "ses-071/func/sub-03_ses-071_task-s06e04b_bold.nii.gz"
