@@ -39,6 +39,7 @@
 7240658d-982b-4c84-abf5-3fcdd9269ea2 bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmp5bbw6wyy timestamp=1668120703s
 7978bd56-e92f-42ec-91ce-42a81f6d0d20 basile@criugm0277:~/data/tests/cneuromod/friends timestamp=1582922074s
 7ade5a8a-75d4-4839-a909-3417257b15bb bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmpx541olsc timestamp=1668124111.308770354s
+7f80276b-4938-48dd-9899-458aadbd1fa9 basile@blob-XPS-9320:~/data/tests/cneuromod_conf/friends timestamp=1708699044s
 80d40b4c-e70d-480c-a90b-721c046d944f bpinsard@jacaranda.unf-montreal.ca:/data/neuromod/DATA/cneuromod/friends timestamp=1596721279s
 8350a643-a910-4fd9-9f21-a2dd08f0b0b1 bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmpadq2np04 timestamp=1668116363.247215382s
 857694de-18f8-43bd-953f-62779c23fadf bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmp6bn3urq0 timestamp=1668119808.85333478s
@@ -57,8 +58,6 @@ a20c3a61-a2e6-4e9c-bd36-8aacb5dcd262 s3unf.cneuromod.friends.mri.sensitive times
 a7e8b295-1b7b-4189-bd85-9efba2e7ee2f bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmprylq70v2 timestamp=1668123870.157017613s
 aa441b30-b9cf-440a-8129-fcf7c4942757 ria-narval-storage timestamp=1614720911s
 adede9f2-7818-4abe-b4a2-49895f96e85e bpinsard@elm.criugm.qc.ca:/scratch/mepicard/physio_data/cneuromod.friends.raw2 timestamp=1705945609.045208351s
-aed56472-9ddc-4b0f-bb76-63dafac73ef9 ria+ssh://narval.computecanada.ca/lustre03/project/rrg-pbellec/ria-beluga timestamp=1648839583.112903812s
-aed56472-9ddc-4b0f-bb76-63dafac73ef9 ria-beluga-storage timestamp=1614720912s
 aed56472-9ddc-4b0f-bb76-63dafac73ef9 url=ria+file:///lustre03/project/rrg-pbellec/ria-beluga timestamp=1648856073.911647996s
 b265a154-d0fc-4193-b215-2e2d0e535e0d bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmp4jchk64f timestamp=1668115659.857758091s
 b67707b5-a018-45b7-b6fe-80b2a20fa145 bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmp39ylfmqt timestamp=1668115878.9149863s
