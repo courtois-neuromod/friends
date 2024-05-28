@@ -1,7 +1,6 @@
-0f4544c7-44c9-4363-bbd1-d9ce2d16ddf4 not metadata=distribution-restrictions=* and include=sub-0[135]/** and exclude=sub-0[246]/** timestamp=1686085834.036114904s
+0f4544c7-44c9-4363-bbd1-d9ce2d16ddf4 groupwanted timestamp=1716925301.517274451s
 60bdb472-273c-449f-9518-38ab88457a26 include=stimuli/* timestamp=1583335126.500717502s
 a20c3a61-a2e6-4e9c-bd36-8aacb5dcd262 exclude=derivatives/* and exclude=stimuli/* and metadata=distribution-restrictions=* timestamp=1595640537.502745s
 aed56472-9ddc-4b0f-bb76-63dafac73ef9 not metadata=distribution-restrictions=sensitive timestamp=1635168809.253283s
 d23c217f-1344-4a5c-a4ff-3eeb3ec9e575 include=derivatives/* timestamp=1583335171.848786692s
 f596c8b6-fc73-4ec3-b4c9-a920e84f8174 exclude=derivatives/* and exclude=stimuli/* and not metadata=distribution-restrictions=* timestamp=1595640441.772993s
-f596c8b6-fc73-4ec3-b4c9-a920e84f8174 exclude=derivatives/* and exclude=stimuli/* timestamp=1583335108.62225469s
