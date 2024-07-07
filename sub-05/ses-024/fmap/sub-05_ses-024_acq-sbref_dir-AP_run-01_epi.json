@@ -35,8 +35,7 @@
     "ses-024/func/sub-05_ses-024_task-s04e11b_bold.nii.gz",
     "ses-024/func/sub-05_ses-024_task-s04e12a_bold.nii.gz",
     "ses-024/func/sub-05_ses-024_task-s04e12b_bold.nii.gz",
-    "ses-024/func/sub-05_ses-024_task-s04e13a_bold.nii.gz",
-    "ses-024/func/sub-05_ses-024_task-s04e13b_bold.nii.gz"
+    "ses-024/func/sub-05_ses-024_task-s04e13a_bold.nii.gz"
 ],
   "MRAcquisitionType": "2D",
   "MagneticFieldStrength": 3,
