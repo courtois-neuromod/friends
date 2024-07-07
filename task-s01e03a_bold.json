@@ -24,7 +24,6 @@
     "ND",
     "MOSAIC"
 ],
-  "ImagingFrequency": 123.259,
   "InPlanePhaseEncodingDirectionDICOM": "COL",
   "InstitutionAddress": "Chemin_Queen-Mary_4565_Montreal_District_CA_H3W_1W5",
   "InstitutionName": "IUGM",
@@ -64,6 +63,6 @@
     [0.0, 0.0, 1.0, 0.0],
     [0.0, 0.0, 0.0, 1.0]
 ],
-  "dcmmeta_shape": [104, 104, 60, 503],
+  "dcmmeta_shape": [104, 104, 60, 472],
   "dcmmeta_slice_dim": 2,
   "dcmmeta_version": 0.6}
