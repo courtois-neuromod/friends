@@ -7,7 +7,9 @@
 0af171b5-3247-4c8d-9cfc-85d40e32a615 bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmpfe8h9k2r timestamp=1720312200s
 0f4544c7-44c9-4363-bbd1-d9ce2d16ddf4 conp-ria-storage timestamp=1671220784s
 109f8fdb-12c4-4ad4-9aac-c3080f15904f bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmp_qmdfbej timestamp=1699037501s
+11e38063-8367-4192-accb-fa02bad4c5a0 bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmphbv9h94w timestamp=1720312200s
 123d7618-4d99-4821-a637-b6c52f420109 bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmp8b9zavol timestamp=1689779533s
+134ded28-7c80-4f39-94ef-aab6155ef51a bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmpvgcpcwm9 timestamp=1720312200s
 139d7529-7b9a-40b5-8697-970aec70ef94 bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmppl_ivtf4 timestamp=1699037501s
 15a84443-ceed-4632-84c0-74a953611c9f bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmpj7sx5bmh timestamp=1668120420.800679303s
 176a195a-39eb-441d-8516-9c67827c0367 bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmpwcrak16v timestamp=1699037501s
@@ -69,6 +71,7 @@
 5c9ae899-3494-4a9f-8412-500fe7041dd0 bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmpup60b2_a timestamp=1699037501s
 5d94bedc-0e89-49a3-8daa-1b54dff07025 bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmp5v15ghiz timestamp=1668124507.040503456s
 5dcc1dc7-a02b-476a-bb54-79713465e82f bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmp2yi_2cvh timestamp=1699037501s
+6040c7af-2ee6-4bf1-a99d-2840e33a9cf4 bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmp43mj1cpd timestamp=1720312200s
 60bdb472-273c-449f-9518-38ab88457a26 s3unf.cneuromod.friends.stimuli timestamp=1583335051.165491096s
 6165d95c-48b1-4d00-bbfb-928dad9bb5ef bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmpw47itplt timestamp=1720312200s
 61ed9ccb-fc5f-46bb-970f-509d23c75b43 basile@criugm0277:~/data/tests/cneuromod.procesed_conp_deploy/fmriprep/friends/sourcedata/friends timestamp=1689779533s
@@ -78,6 +81,7 @@
 64e5154e-6219-4248-92d1-f94ebf5c0be7 bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmp10l8vudf timestamp=1720312200s
 66cafe24-cea5-41c1-9254-8a58abe54ade bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmpwlv79vsk timestamp=1720312200s
 67592d8b-80e4-43fd-8812-5c59610e293b bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmp_tr_5h5a timestamp=1668120452.657008435s
+6857a7e0-320e-4f07-aed6-58829615c80e bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmprf0uaut1 timestamp=1720312200s
 69953a5d-e786-4daf-ae51-b8881626491b bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmp_ecr3pn1 timestamp=1699037501s
 6a02837e-e41b-4a09-a668-f90092e814b4 bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmpl_om30i0 timestamp=1699037501s
 6a111cbc-6774-42d4-a211-0adcee4d7e5c bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmpwql3bthd timestamp=1699037501s
@@ -88,11 +92,14 @@
 715be3e6-bb89-4c6e-b039-884cc789fed5 bpinsard@elm.criugm.qc.ca:/scratch/tmp/cneuromod.friends.raw timestamp=1668120711s
 7240658d-982b-4c84-abf5-3fcdd9269ea2 bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmp5bbw6wyy timestamp=1668120703s
 738c0c52-586e-46db-8a57-0a3a363a25ae bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmpm7cqty8c timestamp=1720312200s
+77ffebbf-41d6-4559-9054-0d702654941a bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmpyi3_r8gq timestamp=1720312200s
 782d0244-8d4d-4d12-b5d5-85031381827d bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmpgsg8dr2v timestamp=1699037501s
 7978bd56-e92f-42ec-91ce-42a81f6d0d20 basile@criugm0277:~/data/tests/cneuromod/friends timestamp=1582922074s
 7a3ef834-099d-493b-a9d4-7af9672204fb bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmp5gv6ztll timestamp=1720312200s
 7ab60f72-33d8-4143-9a61-2c8638a4b147 bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmps_le71r1 timestamp=1720312200s
 7ade5a8a-75d4-4839-a909-3417257b15bb bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmpx541olsc timestamp=1668124111.308770354s
+7b303e84-0495-4d71-96a4-55ec0b0de51d bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmpgmnu63qm timestamp=1720312200s
+7c7396d3-2d3b-4ac2-89f2-8c4ee3143e11 bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmpor3ju9fh timestamp=1720312200s
 7c7e6e89-729f-4641-823e-d9a263a819ac bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmpg3q68g2j timestamp=1699037501s
 7ce18e55-aad6-4517-a2b4-3c55d24e0188 bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmpr616ymrb timestamp=1720312200s
 7cfd0894-d101-4519-9ef1-ce1add6f956b bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmpwqwtgdp3 timestamp=1720312200s
@@ -104,6 +111,7 @@
 8350a643-a910-4fd9-9f21-a2dd08f0b0b1 bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmpadq2np04 timestamp=1668116363.247215382s
 857694de-18f8-43bd-953f-62779c23fadf bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmp6bn3urq0 timestamp=1668119808.85333478s
 8687bca1-146f-453a-bda0-349fc608ae9a bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmp9hxh1d8w timestamp=1699037501s
+869b53a1-2316-46cb-a8e6-c9689dc9aa24 bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmprq9ynduk timestamp=1720312200s
 895893f9-e594-41f4-9ea0-9d1cb57b4477 bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmpcb4afulc timestamp=1668115944.316861803s
 8a706949-5566-4aa2-b797-b1b5ec77f0c9 bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmpq7zdwl0r timestamp=1699037501s
 8b594f5f-9517-458e-81ce-cc8149250d59 bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmp0kq_sn92 timestamp=1699037501s
@@ -132,10 +140,12 @@ a87ee54c-3b66-4a57-8d3c-f437efc83455 bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmpq
 aa441b30-b9cf-440a-8129-fcf7c4942757 ria-narval-storage timestamp=1614720911s
 adede9f2-7818-4abe-b4a2-49895f96e85e bpinsard@elm.criugm.qc.ca:/scratch/mepicard/physio_data/cneuromod.friends.raw2 timestamp=1705945609.045208351s
 aed56472-9ddc-4b0f-bb76-63dafac73ef9 url=ria+file:///lustre03/project/rrg-pbellec/ria-beluga timestamp=1648856073.911647996s
+afeff1ce-750e-4fe7-9d9a-07471f462e15 bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmphodj46gb timestamp=1720312200s
 b265a154-d0fc-4193-b215-2e2d0e535e0d bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmp4jchk64f timestamp=1668115659.857758091s
 b34beac4-ff45-474f-baac-d19651c26c4a bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmp_nsx_nkv timestamp=1720312200s
 b57eae72-cf98-4951-928a-b22f61b709aa bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmpn7z7i6fe timestamp=1699037501s
 b67707b5-a018-45b7-b6fe-80b2a20fa145 bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmp39ylfmqt timestamp=1668115878.9149863s
+b6b09a30-d2cd-4ea9-aed7-2e2535dd2330 bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmpmr_9cc6y timestamp=1720312200s
 b996d6ea-b354-4b5d-9c35-624243c19ed9 bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmp1dtzsbdf timestamp=1720312200s
 bbb37cbc-2368-4a9f-9a68-f77f213e3962 bpinsard@beluga1.int.ets1.calculquebec.ca:/lustre03/project/6003287/datasets/cneuromod_processed/fmriprep/friends/sourcedata/friends timestamp=1614720910s
 bbc39e8a-59b0-4ea3-82a1-4a3d0f471225 bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmps6c73qq6 timestamp=1699037501s
@@ -150,6 +160,7 @@ c7a721b4-32fd-4e81-8483-5ea37712dacd bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmpd
 ca0c4dc4-5109-446f-acc0-29d32e76500d bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmpudtn6565 timestamp=1699037501s
 caef6d09-2840-417e-850f-afc7fd1ff9ad ria-sequoia-storage timestamp=1635819381s
 cb0fce8a-726f-41c9-bb5a-314fb8576f32 bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmp6uqlyrlk timestamp=1720312200s
+cb1dc6dc-ffa4-430c-9318-e2d5441802db bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmp_gthvoin timestamp=1720312200s
 cb4b4834-ba81-4b86-8789-047683a31ee6 bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmpuyr6l7hp timestamp=1668115807.329009866s
 cc32bdf2-5008-47f2-83f1-fa582cef579a bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmpdhsapxd1 timestamp=1668187010s
 cca01bb3-f34c-4283-8f85-b905542546ec bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmp4jbfuhsr timestamp=1668112193.460489914s
@@ -163,6 +174,7 @@ d91096f7-886c-4a24-a9b5-950a6b83f056 bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmp0
 d9ef0a06-7211-4911-905b-7542ad790daa bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmpr23ndw4n timestamp=1668120591.933316565s
 dad67958-36de-43cc-9416-d25c31567443 bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmpu4uyyosj timestamp=1720312200s
 db047b1b-8319-4e39-a29f-e962bc57bc0c bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmpxpavk15e timestamp=1720312200s
+db40a5c2-2025-41e4-b6ea-8151f36b033a bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmpi4phdkbj timestamp=1720312200s
 dd5415d4-4da5-4b25-8bb4-588d20e343c8 bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmpf6gj664x timestamp=1699037501s
 dd6274a2-229d-46c8-b69d-d050f24e94eb bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmp6qhk52r8 timestamp=1720312200s
 dedd269d-5283-498b-8f6e-1c27d7e68d5d bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmpwf20au6c timestamp=1689779533s
