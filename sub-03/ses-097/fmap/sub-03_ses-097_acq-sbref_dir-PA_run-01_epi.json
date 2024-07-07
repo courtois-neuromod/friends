@@ -32,6 +32,9 @@
   "InstitutionAddress": "Chemin Queen-Mary 4565,Montreal,District,CA,H3W 1W5",
   "InstitutionName": "Institut Universitaire de Geriatrie de Montreal",
   "InstitutionalDepartmentName": "Department",
+  "IntendedFor": [
+    "ses-097/func/sub-03_ses-097_task-s07e15a_bold.nii.gz"
+],
   "MRAcquisitionType": "2D",
   "MagneticFieldStrength": 3,
   "Manufacturer": "Siemens",
