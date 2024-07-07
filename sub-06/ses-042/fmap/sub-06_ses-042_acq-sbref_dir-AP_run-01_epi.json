@@ -37,7 +37,7 @@
     "ses-042/func/sub-06_ses-042_task-s06e01b_bold.nii.gz",
     "ses-042/func/sub-06_ses-042_task-s06e02a_bold.nii.gz",
     "ses-042/func/sub-06_ses-042_task-s06e02b_bold.nii.gz"
-  ],
+],
   "MRAcquisitionType": "2D",
   "MagneticFieldStrength": 3,
   "Manufacturer": "Siemens",
