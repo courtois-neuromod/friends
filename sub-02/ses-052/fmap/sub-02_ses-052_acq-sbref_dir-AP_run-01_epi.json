@@ -33,9 +33,7 @@
   "InstitutionalDepartmentName": "Department",
   "IntendedFor": [
     "ses-052/func/sub-02_ses-052_task-s06e13a_bold.nii.gz",
-    "ses-052/func/sub-02_ses-052_task-s06e13b_bold.nii.gz",
-    "ses-052/func/sub-02_ses-052_task-s06e14a_bold.nii.gz",
-    "ses-052/func/sub-02_ses-052_task-s06e14b_bold.nii.gz"
+    "ses-052/func/sub-02_ses-052_task-s06e13b_bold.nii.gz"
 ],
   "MRAcquisitionType": "2D",
   "MagneticFieldStrength": 3,
