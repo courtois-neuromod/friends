@@ -47,6 +47,7 @@
   "ScanOptions": "FS",
   "ScanningSequence": "EP",
   "SequenceName": "epfid2d1_104",
+  "SeriesDescription": "func_task-friends-s06e01a",
   "SliceThickness": 2,
   "SpacingBetweenSlices": 2,
   "StationName": "MRC35049",
@@ -58,5 +59,6 @@
     [0.0, 0.0, 1.0, 0.0],
     [0.0, 0.0, 0.0, 1.0]
 ],
+  "dcmmeta_shape": [104, 104, 60, 465],
   "dcmmeta_slice_dim": 2,
   "dcmmeta_version": 0.6}
