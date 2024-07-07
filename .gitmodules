@@ -3,3 +3,7 @@
 	url = git@github.com:courtois-neuromod/friends.stimuli.git
 	datalad-id = bbbf34b9-31aa-4e35-b1ed-36525c6d7ce3
 	datalad-url = git@github.com:courtois-neuromod/friends.stimuli.git
+[submodule ".heudiconv"]
+	path = .heudiconv
+	url = ./.heudiconv
+	datalad-id = c441d28f-ed0a-4725-8d0d-72b700333679
