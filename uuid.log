@@ -1,3 +1,4 @@
+ root@7f1598b54e90:/home/basile/data/tests/friends.fmriprep timestamp=1693924557.363232514s
 002ef46b-3d82-4dde-9832-da27393716fc bpinsard@blg7213.int.ets1.calculquebec.ca:/localscratch/bpinsard.27341816.0/fmriprep_studyfriends_sub03_ses057.job timestamp=1635958042.290923916s
 004e07f3-471a-4bc5-b9d5-d62fcabacc0c bpinsard@elm.criugm.qc.ca:/tmp/tmpl7rmajad timestamp=1720312200s
 0105da2d-bb53-47f9-bab1-5715d3ae054d bpinsard@blg8230.int.ets1.calculquebec.ca:/localscratch/bpinsard.27321013.0/fmriprep_studyfriends_sub03_ses003.job timestamp=1635902638.583549481s
@@ -669,6 +670,8 @@ ae6159e5-2e41-4cd3-981e-a4b3f0b5b40f bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmpx
 ae7faee7-c897-40dc-bdf8-f3f9168a9655 bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmpjxkrexf8 timestamp=1720312200s
 aeae55c8-6314-4590-bdb4-223b770dc50a bpinsard@blg8450.int.ets1.calculquebec.ca:/localscratch/bpinsard.27321124.0/fmriprep_studyfriends_sub06_ses001.job timestamp=1635919933.709380651s
 aeaf6068-0ea4-4b76-a24d-72d5330bb6b7 bpinsard@elm.criugm.qc.ca:/tmp/tmphjxcurba timestamp=1720312200s
+aed56472-9ddc-4b0f-bb76-63dafac73ef9 ria+ssh://narval.computecanada.ca/lustre03/project/rrg-pbellec/ria-beluga timestamp=1648839583.112903812s
+aed56472-9ddc-4b0f-bb76-63dafac73ef9 ria-beluga-storage timestamp=1614720912s
 aed56472-9ddc-4b0f-bb76-63dafac73ef9 url=ria+file:///lustre03/project/rrg-pbellec/ria-beluga timestamp=1648856073.911647996s
 afc8cddd-8113-40ba-a5f9-db8828289c96 bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmp_x4riiv4 timestamp=1720312200s
 afeff1ce-750e-4fe7-9d9a-07471f462e15 bpinsard@elm.criugm.qc.ca:/scratch/tmp/tmphodj46gb timestamp=1720312200s
