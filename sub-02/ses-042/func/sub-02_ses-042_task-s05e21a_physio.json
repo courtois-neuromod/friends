@@ -1,6 +1,6 @@
 {
     "SamplingFrequency": 10000.0,
-    "StartTime": 9.0001,
+    "StartTime": 9.00000031,
     "Columns": [
         "time",
         "EDA",
