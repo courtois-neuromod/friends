@@ -68,5 +68,6 @@
   "TaskName": "s02e06b",
   "TotalReadoutTime": 0.0576811,
   "TxRefAmp": 220.588,
-  "WipMemBlock": "f2aabc62-bb98-4014-a7f1-4303edb7a348||Sequence: R016 ve11c/master r/e634e98; Dec 19 2017 11:00:25 by eja"
+  "WipMemBlock": "f2aabc62-bb98-4014-a7f1-4303edb7a348||Sequence: R016 ve11c/master r/e634e98; Dec 19 2017 11:00:25 by eja",
+  "dcmmeta_shape": [104, 104, 60, 500]
 }
