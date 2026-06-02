@@ -8,11 +8,11 @@ Participants watched episodes of first 6 seasons of the Friends TV series cut in
 This subdataset is organized following the [brain imaging data structure (BIDS)](https://bids.neuroimaging.io/) (including extensions in development) and contains:
 - [x] [raw neuroimaging data](https://docs.cneuromod.ca/en/latest/MRI.html#functional-sequences)
 - [x] behavioral variables in event files
-- [ ] physiological data
-  - [ ] ECG
-  - [ ] pulse (photoplethysmography)
-  - [ ] respiration
-  - [ ] skin conductance (electro-dermal activity)
+- [x] physiological data
+  - [x] ECG
+  - [x] pulse (photoplethysmography)
+  - [x] respiration
+  - [x] skin conductance (electro-dermal activity)
 - [ ] eyetracking gaze and pupillometry (some seasons/sessions only)
 
 *(unchecked are collected data which have not yet been integrated in the dataset)*

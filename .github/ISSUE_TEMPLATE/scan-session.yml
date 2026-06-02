@@ -176,3 +176,106 @@ body:
 - type: textarea
   attributes:
     label: task-friends_run-06 notes
+
+
+- type: markdown
+  attributes:
+    value: "## task-friends_run-07"
+- type: input
+  attributes:
+    label: task-friends_run-07 segment
+- type: checkboxes
+  attributes:
+    label: task-friends_run-07 completion  
+    options:
+      - label: series was completed.
+- type: dropdown
+  attributes:
+    label: task-friends_run-07 issues
+    multiple: true
+    options:
+      - sleep
+      - excessive motion
+      - eyetracking issues (crash, pupil loss)
+      - physio signal quality issue
+      - controller issues
+- type: textarea
+  attributes:
+    label: task-friends_run-07 notes
+
+- type: markdown
+  attributes:
+    value: "## task-friends_run-08"
+- type: input
+  attributes:
+    label: task-friends_run-08 segment
+- type: checkboxes
+  attributes:
+    label: task-friends_run-08 completion  
+    options:
+      - label: series was completed.
+- type: dropdown
+  attributes:
+    label: task-friends_run-08 issues
+    multiple: true
+    options:
+      - sleep
+      - excessive motion
+      - eyetracking issues (crash, pupil loss)
+      - physio signal quality issue
+      - controller issues
+- type: textarea
+  attributes:
+    label: task-friends_run-08 notes
+
+
+- type: markdown
+  attributes:
+    value: "## task-friends_run-09"
+- type: input
+  attributes:
+    label: task-friends_run-09 segment
+- type: checkboxes
+  attributes:
+    label: task-friends_run-09 completion  
+    options:
+      - label: series was completed.
+- type: dropdown
+  attributes:
+    label: task-friends_run-09 issues
+    multiple: true
+    options:
+      - sleep
+      - excessive motion
+      - eyetracking issues (crash, pupil loss)
+      - physio signal quality issue
+      - controller issues
+- type: textarea
+  attributes:
+    label: task-friends_run-09 notes
+
+
+- type: markdown
+  attributes:
+    value: "## task-friends_run-10"
+- type: input
+  attributes:
+    label: task-friends_run-10 segment
+- type: checkboxes
+  attributes:
+    label: task-friends_run-10 completion  
+    options:
+      - label: series was completed.
+- type: dropdown
+  attributes:
+    label: task-friends_run-10 issues
+    multiple: true
+    options:
+      - sleep
+      - excessive motion
+      - eyetracking issues (crash, pupil loss)
+      - physio signal quality issue
+      - controller issues
+- type: textarea
+  attributes:
+    label: task-friends_run-10 notes
