@@ -59,6 +59,5 @@
     [0.0, 0.0, 1.0, 0.0],
     [0.0, 0.0, 0.0, 1.0]
 ],
-  "dcmmeta_shape": [104, 104, 60, 439],
   "dcmmeta_slice_dim": 2,
   "dcmmeta_version": 0.6}

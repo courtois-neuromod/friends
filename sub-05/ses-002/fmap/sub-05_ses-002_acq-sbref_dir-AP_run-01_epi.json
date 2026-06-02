@@ -33,10 +33,10 @@
   "IntendedFor": [
     "ses-002/func/sub-05_ses-002_task-s01e01a_bold.nii.gz",
     "ses-002/func/sub-05_ses-002_task-s01e01b_bold.nii.gz",
-    "ses-002/func/sub-05_ses-002_task-s01e04a_bold.nii.gz",
-    "ses-002/func/sub-05_ses-002_task-s01e04b_bold.nii.gz",
     "ses-002/func/sub-05_ses-002_task-s01e05a_bold.nii.gz",
-    "ses-002/func/sub-05_ses-002_task-s01e05b_bold.nii.gz"
+    "ses-002/func/sub-05_ses-002_task-s01e05b_bold.nii.gz",
+    "ses-002/func/sub-05_ses-002_task-s01e06a_bold.nii.gz",
+    "ses-002/func/sub-05_ses-002_task-s01e06b_bold.nii.gz"
 ],
   "MRAcquisitionType": "2D",
   "MagneticFieldStrength": 3,
